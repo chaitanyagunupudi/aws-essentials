@@ -1,0 +1,19 @@
+#This command will configure the aws credentials with key and Security Value
+aws configure
+#To View thew aws configurations
+~./aws/configure
+#Need aws help
+aws help
+#Need s3 aws help
+aws s3 help
+
+#To list the S3 Buckets in the AWS Console
+aws s3 ls
+
+#To Create a S3 Bucket from aws cli
+aws s3 mb s3://<bucket-name>
+
+#To Create a S3 Bucket from aws cli
+aws s3 rb s3://<bucket-name>
+
+
