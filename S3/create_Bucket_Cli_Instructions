@@ -1,0 +1,13 @@
+Getting Started with AWS CLI
+
+Step1 : Install AWS CLI
+Linux
+-Pre req :Python 2.6.5+
+-Prep req :Pip Installed
+-$ pip3 install awscli --upgrade --user
+
+Step2 : Configure AWS Credentials (aws configure)
+
+Step3 : Run AWS CLI Commands
+-Create/Remove Bucket
+-Browse S3 Bucket
